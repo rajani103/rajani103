@@ -7,9 +7,13 @@
 
 - 📝 I regularly write articles on various DevOps Concepts [.](.)
 
-- 💬 You can ask me about **Linux,Docker,Jenkins,AWS,**
+- 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
 
 - ⚡ Fun fact **"Oh damn, this is just what I always wanted to know. Thank you for enlightening me."**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
