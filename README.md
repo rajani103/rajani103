@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang, Pulumi and Kubernetes**
 
-- 📝 I regularly write articles on various DevOps Concepts [Medium](Medium)
+- 📝 I regularly write articles on various DevOps Concepts [.](.)
 
 - 💬 You can ask me about **Linux,Docker,Jenkins,AWS,**
 
