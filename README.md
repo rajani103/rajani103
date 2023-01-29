@@ -1,13 +1,9 @@
-<h1 align="center">Hi there, I'm Rajani🌻</h1>
+<h1 align="center">Hi 👋, I'm Rajani🌻</h1>
 <h3 align="center">I am a DevOps Engineer from India. Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
 - 🌱 I’m currently learning **GoLang, Pulumi and Kubernetes**
-
-- 📝 I regularly write articles on various DevOps Concepts [https://medium.com/@misalPav](https://medium.com/@misalPav)
-
-- 📫 How to reach me **Connect me on Linkedin https://www.linkedin.com/in/rajani-ekunde-145628157/**
 
 - ⚡ Fun fact **I am a hard core misalPav lover!!**
 
