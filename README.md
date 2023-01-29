@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **GoLang, Pulumi and Kubernetes**
 
-- ⚡ Fun fact **I am a hard core misalPav lover!!**
+- 📝 I regularly write articles on various DevOps Concepts [Medium](Medium)
+
+- 💬 You can ask me about **Linux,Docker,Jenkins,AWS,**
+
+- ⚡ Fun fact **"Oh joy, just what I always wanted to know. Thank you for enlightening me."**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
