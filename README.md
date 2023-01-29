@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rajani🌻</h1>
-<h3 align="center">I am a curious DevOps Engineer from India. Passionate about writing Technical Blogs on various DevOps concepts.</h3>
+<h3 align="center">I am a curious DevOps Engineer from Pune. Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
