@@ -9,7 +9,7 @@
 
 - 💬 You can ask me about **Linux,Docker,Jenkins,AWS,**
 
-- ⚡ Fun fact **"Oh joy, just what I always wanted to know. Thank you for enlightening me."**
+- ⚡ Fun fact **"Oh damn, just what I always wanted to know. Thank you for enlightening me."**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
