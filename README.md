@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rajani🌻</h1>
-<h3 align="center">I am a curious DevOps Engineer from Pune. Passionate about writing Technical Blogs on various DevOps concepts.</h3>
+<h3 align="center">I am a curious DevOps Engineer from India. Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
@@ -7,13 +7,9 @@
 
 - 📝 I regularly write articles on various DevOps Concepts [.](.)
 
-- 💬 You can ask me about **Linux ,Docker, Jenkins, AWS ,Terraform**
+- 💬 You can ask me about **Linux,Docker,Jenkins,AWS,**
 
-- ⚡ Fun fact **"Oh damn, just what I always wanted to know. Thank you for enlightening me."**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **"Oh damn, this is just what I always wanted to know. Thank you for enlightening me."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
