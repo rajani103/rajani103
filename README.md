@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 1 : Getting Started with DevOps](https://medium.com/@misalPav/day-1-getting-started-with-devops-6f1682dc5ef1?source=rss-a8245d2e0240------2)
 - [Creating an AWS 3 Tier Architecture](https://medium.com/@misalPav/creating-an-aws-3-tier-architecture-bab3ea0b306d?source=rss-a8245d2e0240------2)
 - [Containerizing the Node.js APP using Docker](https://medium.com/@misalPav/containerizing-the-node-js-app-using-docker-a72bb45bf549?source=rss-a8245d2e0240------2)
 - [Deploying NodeJS APP on AWS EC2 Instance — Step by Step](https://medium.com/@misalPav/deploying-nodejs-app-on-aws-ec2-instance-step-by-step-1b00f807cdce?source=rss-a8245d2e0240------2)
 - [Day 12 of #90DaysofDevops](https://medium.com/@misalPav/day-12-of-90daysofdevops-b1888ebd983f?source=rss-a8245d2e0240------2)
-- [Day 6 of #90DaysofDevops](https://medium.com/@misalPav/day-6-of-90daysofdevops-73fbe30aeead?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
