@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
-- 🌱 I’m currently learning **GoLang, Pulumi and Kubernetes**
+- 🌱 I’m currently learning **GoLang, Kubernetes**
 
 - 📝 I regularly write articles on various DevOps Concepts [.](.)
 
