@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Skill or Degree: What will you choose?](https://medium.com/@misalPav/skill-or-degree-what-will-you-choose-3738814388a9?source=rss-a8245d2e0240------2)
 - [Day 2 : Basic Linux commands](https://medium.com/@misalPav/day-2-basic-linux-commands-4b96faee9925?source=rss-a8245d2e0240------2)
 - [Day 1 : Getting Started with DevOps](https://medium.com/@misalPav/day-1-getting-started-with-devops-6f1682dc5ef1?source=rss-a8245d2e0240------2)
 - [Creating an AWS 3 Tier Architecture](https://medium.com/@misalPav/creating-an-aws-3-tier-architecture-bab3ea0b306d?source=rss-a8245d2e0240------2)
 - [Containerizing the Node.js APP using Docker](https://medium.com/@misalPav/containerizing-the-node-js-app-using-docker-a72bb45bf549?source=rss-a8245d2e0240------2)
-- [Deploying NodeJS APP on AWS EC2 Instance — Step by Step](https://medium.com/@misalPav/deploying-nodejs-app-on-aws-ec2-instance-step-by-step-1b00f807cdce?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
