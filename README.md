@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 4 Basic Linux Shell Scripting for DevOps Engineers.](https://medium.com/@misalPav/day-4-basic-linux-shell-scripting-for-devops-engineers-48e5b5f3a429?source=rss-a8245d2e0240------2)
 - [Day 3: Basic Linux commands](https://medium.com/@misalPav/day-3-basic-linux-commands-c9e2a288a264?source=rss-a8245d2e0240------2)
 - [Skill or Degree: What will you choose?](https://medium.com/@misalPav/skill-or-degree-what-will-you-choose-3738814388a9?source=rss-a8245d2e0240------2)
 - [Day 2 : Basic Linux commands](https://medium.com/@misalPav/day-2-basic-linux-commands-4b96faee9925?source=rss-a8245d2e0240------2)
 - [Day 1 : Getting Started with DevOps](https://medium.com/@misalPav/day-1-getting-started-with-devops-6f1682dc5ef1?source=rss-a8245d2e0240------2)
-- [Creating an AWS 3 Tier Architecture](https://medium.com/@misalPav/creating-an-aws-3-tier-architecture-bab3ea0b306d?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
