@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 5 : Advanced Linux Shell Scripting for DevOps Engineers with User management](https://medium.com/@misalPav/day-5-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-5a7f84d65a06?source=rss-a8245d2e0240------2)
 - [Jenkins CICD with GitHub Integration](https://medium.com/@misalPav/jenkins-cicd-with-github-integration-c9790cd4d6fb?source=rss-a8245d2e0240------2)
 - [Day 4 Basic Linux Shell Scripting for DevOps Engineers.](https://medium.com/@misalPav/day-4-basic-linux-shell-scripting-for-devops-engineers-48e5b5f3a429?source=rss-a8245d2e0240------2)
 - [Day 3: Basic Linux commands](https://medium.com/@misalPav/day-3-basic-linux-commands-c9e2a288a264?source=rss-a8245d2e0240------2)
 - [Skill or Degree: What will you choose?](https://medium.com/@misalPav/skill-or-degree-what-will-you-choose-3738814388a9?source=rss-a8245d2e0240------2)
-- [Day 2 : Basic Linux commands](https://medium.com/@misalPav/day-2-basic-linux-commands-4b96faee9925?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
