@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 8: Basic Git &amp; GitHub](https://medium.com/@misalPav/day-8-basic-git-github-84d276847364?source=rss-a8245d2e0240------2)
 - [Day 7: Understanding package manager and systemctl](https://medium.com/@misalPav/day-7-understanding-package-manager-and-systemctl-990574e5c010?source=rss-a8245d2e0240------2)
 - [Day 6 : File Permissions and Access Control Lists](https://medium.com/@misalPav/day-6-file-permissions-and-access-control-lists-8b40834f54f0?source=rss-a8245d2e0240------2)
 - [Day 5 : Advanced Linux Shell Scripting for DevOps Engineers with User management](https://medium.com/@misalPav/day-5-advanced-linux-shell-scripting-for-devops-engineers-with-user-management-5a7f84d65a06?source=rss-a8245d2e0240------2)
 - [Jenkins CICD with GitHub Integration](https://medium.com/@misalPav/jenkins-cicd-with-github-integration-c9790cd4d6fb?source=rss-a8245d2e0240------2)
-- [Day 4 Basic Linux Shell Scripting for DevOps Engineers.](https://medium.com/@misalPav/day-4-basic-linux-shell-scripting-for-devops-engineers-48e5b5f3a429?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
