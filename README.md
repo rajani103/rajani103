@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 13: Basics of Python](https://medium.com/@misalPav/day-13-basics-of-python-d99dad5e9e17?source=rss-a8245d2e0240------2)
 - [Day 12: Advance Git &amp; GitHub](https://medium.com/@misalPav/day-12-advance-git-github-8b9c014ff910?source=rss-a8245d2e0240------2)
 - [Day 11: Advance Git &amp; GitHub](https://medium.com/@misalPav/day-11-advance-git-github-c8714ff0097e?source=rss-a8245d2e0240------2)
 - [AWS CloudWatch ☁  : Metric | Alarms | Logs Custom Metric](https://medium.com/@misalPav/aws-cloudwatch-metric-alarms-logs-custom-metric-9c2c524e553?source=rss-a8245d2e0240------2)
 - [Day 10: Advance Git &amp; GitHub](https://medium.com/@misalPav/day-10-advance-git-github-91fd54238955?source=rss-a8245d2e0240------2)
-- [Day 9: Deep Dive in Git &amp; GitHub](https://medium.com/@misalPav/day-9-deep-dive-in-git-github-f64a330a85b5?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
