@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 17: Docker Project](https://medium.com/@misalPav/day-17-docker-project-c33b68651db4?source=rss-a8245d2e0240------2)
 - [Day 16: Docker for DevOps Engineers](https://medium.com/@misalPav/day-16-docker-for-devops-engineers-a8fe15d822b9?source=rss-a8245d2e0240------2)
 - [Day 15: Python Libraries](https://medium.com/@misalPav/day-15-python-libraries-db9a475aa8f8?source=rss-a8245d2e0240------2)
 - [Day 14: Python Data Types and Data Structures](https://medium.com/@misalPav/day-14-python-data-types-and-data-structures-1c9f8a468e68?source=rss-a8245d2e0240------2)
 - [Day 13: Basics of Python](https://medium.com/@misalPav/day-13-basics-of-python-d99dad5e9e17?source=rss-a8245d2e0240------2)
-- [Day 12: Advance Git &amp; GitHub](https://medium.com/@misalPav/day-12-advance-git-github-8b9c014ff910?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
