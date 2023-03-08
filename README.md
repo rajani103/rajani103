@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 20 : Docker Cheat-sheet](https://medium.com/@misalPav/day-20-docker-cheat-sheet-6dff5af2fb64?source=rss-a8245d2e0240------2)
 - [Day 19 : Docker for DevOps Engineers](https://medium.com/@misalPav/day-19-docker-for-devops-engineers-679a917af16b?source=rss-a8245d2e0240------2)
 - [Day 18: Docker-Compose Project](https://medium.com/@misalPav/day-18-docker-project-ff1d33d1439f?source=rss-a8245d2e0240------2)
 - [Day 17: Docker Project](https://medium.com/@misalPav/day-17-docker-project-c33b68651db4?source=rss-a8245d2e0240------2)
 - [Day 16: Docker for DevOps Engineers](https://medium.com/@misalPav/day-16-docker-for-devops-engineers-a8fe15d822b9?source=rss-a8245d2e0240------2)
-- [Day 15: Python Libraries](https://medium.com/@misalPav/day-15-python-libraries-db9a475aa8f8?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
