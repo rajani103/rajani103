@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rajani</h1>
+<h1 align="center">Hi there, I'm Rajani🌻</h1>
 <h3 align="center">AWS Community Builder | DevOps Engineer @GlobalLogic | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Pulumi | Technical Blogger | Ex-TCSer | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
