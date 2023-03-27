@@ -1,4 +1,4 @@
-![MasterHead]([https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg))
+![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
 <h1 align="center">Hi there, I'm Rajani</h1>
 <h3 align="center">AWS Community Builder | DevOps Engineer @GlobalLogic | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Pulumi | Technical Blogger | Ex-TCSer | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
