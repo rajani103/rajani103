@@ -1,7 +1,7 @@
-[![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)]
+![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
 <h1 align="center">Hi there, I'm Rajani</h1>
 <h3 align="center">AWS Community Builder | DevOps Engineer @GlobalLogic | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Pulumi | Technical Blogger | Ex-TCSer | Passionate about writing Technical Blogs on various DevOps concepts.</h3>
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept"
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
