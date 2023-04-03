@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Steps to install jenkins on Ubuntu](https://medium.com/@rajani103/steps-to-install-jenkins-on-ubuntu-987b6042344a?source=rss-a8245d2e0240------2)
 - [Day 24,25 : Complete Jenkins CI/CD Project](https://medium.com/@rajani103/day-24-25-complete-jenkins-ci-cd-project-14aa3d8eb7e6?source=rss-a8245d2e0240------2)
 - [Day 23 : Jenkins Freestyle Project](https://medium.com/@rajani103/day-23-jenkins-freestyle-project-6fb0b36d7c85?source=rss-a8245d2e0240------2)
 - [Deploying a web-application using Nginx server and Reverse Proxy](https://medium.com/@rajani103/deploying-a-noteapp-project-by-nginx-920067dca1b5?source=rss-a8245d2e0240------2)
 - [Day 22 : Getting Started with Jenkins](https://medium.com/@rajani103/day-22-getting-started-with-jenkins-56f43d7f6d0f?source=rss-a8245d2e0240------2)
-- [Day 21 : Docker Important interview Questions](https://medium.com/@rajani103/day-21-docker-important-interview-questions-6519b220cb46?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
