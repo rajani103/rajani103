@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
 - [Steps to install Docker on Ubuntu](https://medium.com/@rajani103/steps-to-install-docker-on-ubuntu-bf6080543096?source=rss-a8245d2e0240------2)
 - [Day 26 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-26-jenkins-declarative-pipeline-6209ff470160?source=rss-a8245d2e0240------2)
 - [Steps to install jenkins on Ubuntu](https://medium.com/@rajani103/steps-to-install-jenkins-on-ubuntu-987b6042344a?source=rss-a8245d2e0240------2)
 - [Day 24,25 : Complete Jenkins CI/CD Project](https://medium.com/@rajani103/day-24-25-complete-jenkins-ci-cd-project-14aa3d8eb7e6?source=rss-a8245d2e0240------2)
-- [Day 23 : Jenkins Freestyle Project](https://medium.com/@rajani103/day-23-jenkins-freestyle-project-6fb0b36d7c85?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
