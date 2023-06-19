@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
 
-<p align="left"> <a href="https://twitter.com/misalpav103" target="blank"><img src="https://img.shields.io/twitter/follow/misalpav103?logo=twitter&style=for-the-badge" alt="misalpav103" /></a> </p>
+<p align="left"> <a href="https://twitter.com/misalpav103" target="blank"><img src="https://img.shields.io/twitter/follow/misalpav103?logo=twitter&style=for-the-badge" alt="misalpavv" /></a> </p>
 
 - 🔭 I’m currently **learning GoLang, Kubernetes**
 - 📝 I regularly write articles on **Various DevOps Concepts**
