@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Spring Boot application on K8S](https://medium.com/@rajani103/deploying-spring-boot-application-on-k8s-25d64c218def?source=rss-a8245d2e0240------2)
 - [AWS Community Builders Program-All you need to know!!](https://medium.com/@rajani103/aws-community-builders-program-all-you-need-to-know-6d03195f6687?source=rss-a8245d2e0240------2)
 - [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
 - [Steps to install Docker on Ubuntu](https://medium.com/@rajani103/steps-to-install-docker-on-ubuntu-bf6080543096?source=rss-a8245d2e0240------2)
 - [Day 26 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-26-jenkins-declarative-pipeline-6209ff470160?source=rss-a8245d2e0240------2)
-- [Steps to install jenkins on Ubuntu](https://medium.com/@rajani103/steps-to-install-jenkins-on-ubuntu-987b6042344a?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
