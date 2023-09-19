@@ -12,7 +12,7 @@
 
 - 💬 You can ask me about **Linux, Docker, Jenkins, AWS, Terraform**
 
-- ⚡ Fun fact **"Oh damn, this is just what I always wanted to know. Thank you for enlightening me."**
+- ⚡ Fun fact **"If you're waiting for the waiter, does that make you the waiter!!!"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
