@@ -1,4 +1,3 @@
-![MasterHead](https://images.unsplash.com/photo-1690627931320-16ac56eb2588?w=1500&q=80&auto=format&fit=crop&h=300)
 <h1 align="center">Hi there, I'm Rajani 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Site+Reliability+Engineer;DevOps+%7C+Cloud+%7C+SRE;GCP+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+Self-Healing+%26+Secure+Cloud+Systems" alt="Typing SVG" />
