@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-release-software-251835118.jpg)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=220&section=header&text=Rajani%20Ekunde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20SRE%20%7C%20Cloud%20Security%20%7C%20AI%20Agents%20for%20Infra&descSize=18&descAlignY=58&animation=fadeIn)
 <h1 align="center">Hi there, I'm Rajani 👋</h1>
 <h3 align="center">Senior Site Reliability Engineer · Cloud Security & Observability · GCP/AWS · Technical Speaker & Blogger</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
