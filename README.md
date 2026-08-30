@@ -4,10 +4,6 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/25939672/file/original-7566dcc8b51a711ff98db285a96d46ba.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
-
-<p align="left"> <a href="https://twitter.com/misalpavv" target="blank"><img src="https://img.shields.io/twitter/follow/misalpavv?logo=twitter&style=for-the-badge" alt="misalpavv" /></a> </p>
-
 - 🔭 I'm currently building **eBPF-based observability tooling, cloud attack-path/blast-radius graphs (Neo4j), and AI agents for infrastructure operations (GKE + Vertex AI, self-healing systems on AWS Bedrock)**
 - 🌱 I'm currently exploring **eBPF, agentic AI for SRE/DevOps, and cloud security graph modeling**
 - 🎤 I speak at conferences on self-healing infrastructure, container security, and API gateway hardening
