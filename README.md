@@ -95,7 +95,7 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 - [Enhancing AWS Security: A Guide to IAM User Deletion Notifications](https://medium.com/@rajani103/enhancing-aws-security-a-guide-to-iam-user-deletion-notifications-386a33142742?source=rss-a8245d2e0240------2)
 - [Deploying Spring Boot application on K8S](https://medium.com/@rajani103/deploying-spring-boot-application-on-k8s-25d64c218def?source=rss-a8245d2e0240------2)
 - [AWS Community Builders Program-All you need to know!!](https://medium.com/@rajani103/aws-community-builders-program-all-you-need-to-know-6d03195f6687?source=rss-a8245d2e0240------2)
-- [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
+- [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
