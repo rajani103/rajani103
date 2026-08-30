@@ -11,6 +11,7 @@
 - 💬 Ask me about **Kubernetes, GCP, AWS, Terraform, Docker, CI/CD security**
 
 <br clear="both">
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
@@ -19,7 +20,6 @@
 <img src="https://img.shields.io/badge/Docker-EC4899?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Terraform-C2185B?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Python-D6006D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Neo4j-F06292?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
 <img src="https://img.shields.io/badge/Jenkins-AD1457?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
