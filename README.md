@@ -1,6 +1,8 @@
 ![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=220&section=header&text=Rajani%20Ekunde&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20SRE%20%7C%20Cloud%20Security%20%7C%20AI%20Agents%20for%20Infra&descSize=18&descAlignY=58&animation=fadeIn)
 <h1 align="center">Hi there, I'm Rajani 👋</h1>
-<h3 align="center">Senior Site Reliability Engineer · Cloud Security & Observability · GCP/AWS · Technical Speaker & Blogger</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Site+Reliability+Engineer;DevOps+%7C+Cloud+%7C+SRE;GCP+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+Self-Healing+%26+Secure+Cloud+Systems" alt="Typing SVG" />
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajani103&label=Profile%20views&color=0e75b6&style=flat" alt="rajani103" /> </p>
