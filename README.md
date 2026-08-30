@@ -10,9 +10,19 @@
 - 📝 Writing on **DevOps and cloud security concepts**
 - 💬 Ask me about **Kubernetes, GCP, AWS, Terraform, Docker, CI/CD security**
 
+<br clear="both">
+
+<div align="center">
+
+`AWS` `GCP` `Kubernetes` `Docker` `Terraform` `Python` `Neo4j` `Jenkins`
+
+</div>
+
 <br>
 
-### 🚀 Featured Projects
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
 
 <table>
 <tr>
@@ -71,7 +81,10 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 </tr>
 </table>
 
-### 📝 Latest Blog Posts
+---
+
+<h3 align="center">📝 Latest Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [How AI is Transforming Cloud Operations on AWS: The Rise of AIOps](https://medium.com/@rajani103/how-ai-is-transforming-cloud-operations-on-aws-the-rise-of-aiops-5f8acc399b0c?source=rss-a8245d2e0240------2)
 - [Enhancing AWS Security: A Guide to IAM User Deletion Notifications](https://medium.com/@rajani103/enhancing-aws-security-a-guide-to-iam-user-deletion-notifications-386a33142742?source=rss-a8245d2e0240------2)
@@ -80,30 +93,20 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 - [Day 27 : Jenkins Declarative Pipeline](https://medium.com/@rajani103/day-27-jenkins-declarative-pipeline-d9fb9c83f6fc?source=rss-a8245d2e0240------2)
 <!-- BLOG-POST-LIST:END -->
 
-### 🔗 Connect With Me
+---
 
-<p align="left">
-<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
-
-### 📊 GitHub Streak
+<h3 align="center">📊 GitHub Streak</h3>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=rajani103&theme=tokyonight&hide_border=true" alt="rajani103 streak stats" />
+</p>
+
+---
+
+<h3 align="center">🔗 Connect With Me</h3>
+
+<p align="center">
+<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
