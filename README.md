@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rajani 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Senior+Site+Reliability+Engineer;DevOps+%7C+Cloud+%7C+SRE;GCP+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+Self-Healing+%26+Secure+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=650&lines=Senior+Site+Reliability+Engineer;DevOps+%7C+Cloud+%7C+SRE;GCP+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform;Building+Self-Healing+%26+Secure+Cloud+Systems" alt="Typing SVG" />
 </p>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/25939672/file/original-7566dcc8b51a711ff98db285a96d46ba.gif" >
 
@@ -13,14 +13,14 @@
 <br clear="both">
 
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/AWS-FF1493?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/GCP-FF69B4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Kubernetes-E91E63?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-EC4899?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-C2185B?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Python-D6006D?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Neo4j-F06292?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Jenkins-AD1457?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
 </p>
 
 <br>
@@ -36,7 +36,7 @@
 **[cloud-as-graph](https://github.com/rajani103/cloud-as-graph)**
 GCP infra as a graph in Neo4j — reachability, blast-radius, SPOF, and internet-to-crown-jewels attack path analysis
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/cloud-as-graph?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/cloud-as-graph?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/cloud-as-graph?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/cloud-as-graph?style=flat&color=ff1493" alt=""/>
 
 </td>
 <td width="50%" valign="top">
@@ -44,7 +44,7 @@ GCP infra as a graph in Neo4j — reachability, blast-radius, SPOF, and internet
 **[ebpf-dns-5s-mystery](https://github.com/rajani103/ebpf-dns-5s-mystery)**
 Debugging a container DNS tail-latency bug with a hand-written eBPF/bpftrace probe — no shell into the container required
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/ebpf-dns-5s-mystery?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/ebpf-dns-5s-mystery?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/ebpf-dns-5s-mystery?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/ebpf-dns-5s-mystery?style=flat&color=ff1493" alt=""/>
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ Debugging a container DNS tail-latency bug with a hand-written eBPF/bpftrace pro
 **[self-healing-demo](https://github.com/rajani103/self-healing-demo)**
 Autonomous AWS infra healing: CloudWatch → Step Functions → Claude (Bedrock) triage, with guardrails and human-in-the-loop approval
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/self-healing-demo?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/self-healing-demo?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/self-healing-demo?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/self-healing-demo?style=flat&color=ff1493" alt=""/>
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@ Autonomous AWS infra healing: CloudWatch → Step Functions → Claude (Bedrock)
 **[gke-agent-demo](https://github.com/rajani103/gke-agent-demo)**
 Production-style AI agent on Gemini/Vertex AI, deployed on GKE Autopilot with autoscaling and zero-downtime rollouts
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/gke-agent-demo?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/gke-agent-demo?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/gke-agent-demo?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/gke-agent-demo?style=flat&color=ff1493" alt=""/>
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ Production-style AI agent on Gemini/Vertex AI, deployed on GKE Autopilot with au
 **[kong-cloudrun](https://github.com/rajani103/kong-cloudrun)**
 Kong Gateway in front of Cloud Run — auth, rate-limiting, and caching to protect backends and control cost
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/kong-cloudrun?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/kong-cloudrun?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/kong-cloudrun?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/kong-cloudrun?style=flat&color=ff1493" alt=""/>
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ Kong Gateway in front of Cloud Run — auth, rate-limiting, and caching to prote
 **[shift-left-gcp-demo](https://github.com/rajani103/shift-left-gcp-demo)**
 Shift-left container security on GCP — hardening images and scanning with Trivy inside Cloud Build CI/CD
 <br>
-<img src="https://img.shields.io/github/languages/top/rajani103/shift-left-gcp-demo?style=flat&color=0e75b6" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/shift-left-gcp-demo?style=flat&color=0e75b6" alt=""/>
+<img src="https://img.shields.io/github/languages/top/rajani103/shift-left-gcp-demo?style=flat&color=ff1493" alt=""/> <img src="https://img.shields.io/github/stars/rajani103/shift-left-gcp-demo?style=flat&color=ff1493" alt=""/>
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 <h3 align="center">📊 GitHub Streak</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rajani103&theme=tokyonight&hide_border=true" alt="rajani103 streak stats" />
+<img src="https://streak-stats.demolab.com/?user=rajani103&hide_border=true&background=0D0D0D&ring=FF1493&fire=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0&stroke=FF1493" alt="rajani103 streak stats" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/Twitter-@misalpavv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rajaniekunde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/Medium-@rajani103-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/Twitter-@misalpavv-FF69B4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rajaniekunde-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/Medium-@rajani103-C2185B?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
