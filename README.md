@@ -12,11 +12,16 @@
 
 <br clear="both">
 
-<div align="center">
-
-`AWS` `GCP` `Kubernetes` `Docker` `Terraform` `Python` `Neo4j` `Jenkins`
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</p>
 
 <br>
 
@@ -103,10 +108,10 @@ Shift-left container security on GCP — hardening images and scanning with Triv
 
 ---
 
-<h3 align="center">🔗 Connect With Me</h3>
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://twitter.com/misalpavv" target="_blank"><img src="https://img.shields.io/badge/Twitter-@misalpavv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.linkedin.com/in/rajaniekunde/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-rajaniekunde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@rajani103" target="_blank"><img src="https://img.shields.io/badge/Medium-@rajani103-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
